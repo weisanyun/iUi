@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <gg-switch v-model="active"></gg-switch>
+    <gg-switch v-model="active">111111</gg-switch>
   </div>
 </template>
 
